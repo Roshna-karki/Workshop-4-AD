@@ -9,7 +9,7 @@
     // 2. GetFullName using out
     public void GetFullName(out string fullname)
     {
-        fullname = "Roshna Karki";
+        fullname = "Roshana Karki";
     }
 
     // 3. SumAll using params
